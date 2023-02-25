@@ -1,0 +1,11 @@
+body{
+	background: #f36520;
+}
+header, nav, main {
+	background: #fff;
+	min-height: 10vh;
+	margin: 2vh auto;
+}
+nav, main {
+	min-height: 80vh;
+}
